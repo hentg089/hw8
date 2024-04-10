@@ -1,0 +1,6 @@
+# ninja log v5
+1	924	7343342509479807	CMakeFiles/temptemp.dir/bitbuffer.cpp.obj	33bd0a8a6b7ad5fe
+1	546	7343356265958769	CMakeFiles/temptemp.dir/main.cpp.obj	4b25700788612f16
+680	1343	7344184358880309	temptemp.exe	658fafe6f0cff187
+1	603	7343355937440584	CMakeFiles/temptemp.dir/binheap.cpp.obj	55848c0f715794c5
+0	680	7344184353801527	CMakeFiles/temptemp.dir/huffman.cpp.obj	cc1bd078d3a81995
